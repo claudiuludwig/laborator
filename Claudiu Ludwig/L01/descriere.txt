@@ -1,2 +1,5 @@
 Google Workspace / Google Apps --- software-as-a-service app
 
+Am folosit Google Drive si il folosesc zilnic in activitatea pe care o desfasor in cadrul Ligii AC.
+
+E un serviciu cloud de depozitare si editare a datelor, cu o capacitate imensa de stocare. El poate fi accesat si utilizat in acelasi timp de mai multi utilizatori si e foarte facil si la indemana.
