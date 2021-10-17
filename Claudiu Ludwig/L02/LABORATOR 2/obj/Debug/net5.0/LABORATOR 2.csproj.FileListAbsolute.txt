@@ -1,0 +1,28 @@
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\appsettings.json
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.exe
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.deps.json
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.runtimeconfig.json
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.runtimeconfig.dev.json
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\ref\LABORATOR 2.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\LABORATOR 2.pdb
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.csproj.AssemblyReference.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.AssemblyInfoInputs.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.AssemblyInfo.cs
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\staticwebassets\LABORATOR 2.StaticWebAssets.Manifest.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\staticwebassets\LABORATOR 2.StaticWebAssets.xml
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\scopedcss\bundle\LABORATOR 2.styles.css
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.RazorTargetAssemblyInfo.cache
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\ref\LABORATOR 2.dll
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.pdb
+C:\Users\ludwi\Documents\FACULTATE\ANUL 4\SEMESTRUL 1\DATC\LABORATOR 2\obj\Debug\net5.0\LABORATOR 2.genruntimeconfig.cache
