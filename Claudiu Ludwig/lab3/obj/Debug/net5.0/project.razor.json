@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\ludwi\\Documents\\FACULTATE\\ANUL 4\\SEMESTRUL 1\\DATC\\lab3\\lab3.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "lab3",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
